@@ -23,12 +23,12 @@ repositories {
 }
 
 android {
-    compileSdkVersion 32
+    compileSdkVersion 34
 
     defaultConfig {
         applicationId "com.razorpay.newsampleapp"
         minSdkVersion 19
-        targetSdkVersion 32
+        targetSdkVersion 34
     }
 
     buildTypes {
